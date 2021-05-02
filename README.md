@@ -1,2 +1,2 @@
 # PyroStudies
-Personal repo collection of PyTorch Notebooks for self-studies
+Personal repo collection of Pyro and PyTorch Notebooks for self-studies
